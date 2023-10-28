@@ -1,0 +1,43 @@
+@charset "utf-8";
+
+/*
+    Asignment Name: My Schedule
+    Author: Jessica Hite
+    Date: 10/28/2023
+
+    Filename: styles.css
+*/
+
+/* Body Styles */
+body {
+    margin: 0%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background: linear-gradient(to bottom, rgba(255, 174, 0, 0.907), rgba(0, 0, 255, 0.699));
+    height: 95vh;
+}
+
+/* Heading Styles */
+h1 {
+    text-align: center;
+    font-size: 4em;
+    text-shadow: 4px 4px 8px rgba(101, 11, 11, 0.655);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    border: 6px inset rgb(234, 38, 20);
+    background-color: rgb(240, 180, 113);
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 3px 3px 6px black;
+}
+/* Footer Styles */
+footer {
+    text-align: center;
+    background-color: rgb(137, 137, 230);
+    font-size: 1.2em;
+    padding-bottom: 2px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+/* Table Styles */
